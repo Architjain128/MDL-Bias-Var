@@ -39,6 +39,7 @@ From the above graphs and tabulated values, we observe that with an increase in 
 |:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
 |<img src="./Images/Degree1.jpg">|<img src="./Images/Degree2.jpg">|<img src="./Images/Degree3.jpg">|<img src="./Images/Degree4.jpg">|
 |<img src="./Images/Degree5.jpg">|<img src="./Images/Degree6.jpg">|<img src="./Images/Degree7.jpg">|<img src="./Images/Degree8.jpg">|
-|<img src="./Images/Degree9.jpg">|<img src="./Images/Degree10.jpg">|<img src="./Images/Degree11.jpg">|<img src="./Images/Degree12.jpg">
-|<img src="./Images/Degree13.jpg">|<img src="./Images/Degree14.jpg">|<img src="./Images/Degree15.jpg">|<img src="./Images/Degree16.jpg">|<img src="./Images/Degree17.jpg">|<img src="./Images/Degree18.jpg">|<img src="./Images/Degree19.jpg">|<img src="./Images/Degree20.jpg">
+|<img src="./Images/Degree9.jpg">|<img src="./Images/Degree10.jpg">|<img src="./Images/Degree11.jpg">|<img src="./Images/Degree12.jpg">|
+|<img src="./Images/Degree13.jpg">|<img src="./Images/Degree14.jpg">|<img src="./Images/Degree15.jpg">|<img src="./Images/Degree16.jpg">|
+|<img src="./Images/Degree17.jpg">|<img src="./Images/Degree18.jpg">|<img src="./Images/Degree19.jpg">|<img src="./Images/Degree20.jpg">
 
